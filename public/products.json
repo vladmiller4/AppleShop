@@ -1,0 +1,64 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "iPhone 11",
+        "price": 699,
+        "available": 2
+      },
+      {
+        "id": 2,
+        "name": "iPhone 11 Pro",
+        "price": 999,
+        "available": 0
+      },
+      {
+        "id": 3,
+        "name": "iPhone XR",
+        "price": 599,
+        "available": 2
+      },
+      {
+        "id": 4,
+        "name": "iPhone SE",
+        "price": 399,
+        "available": 1
+      },
+      {
+        "id": 5,
+        "name": "AirProds",
+        "price": 159,
+        "available": 3
+      },
+      {
+        "id": 6,
+        "name": "AirProds Pro",
+        "price": 249,
+        "available": 4
+      },
+      {
+        "id": 7,
+        "name": "Apple Wacth 3",
+        "price": 199,
+        "available": 23
+      },
+      {
+        "id": 8,
+        "name": "Apple Wacth 6",
+        "price": 399,
+        "available": 234
+      },
+      {
+        "id": 9,
+        "name": "MacBook Air",
+        "price": 999,
+        "available": 7
+      },
+      {
+        "id": 10,
+        "name": "MacBook Pro",
+        "price": 1299,
+        "available": 7
+      }
+    ]
+}

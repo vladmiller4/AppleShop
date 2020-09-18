@@ -1,0 +1,32 @@
+.App-sidebar {
+    width: 20%;
+    color: #05386B;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+.App-sidebar-nav a {
+    width: 100%;
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+    margin-bottom: 30px;
+    padding: 12px;
+    background-color: #05386B;
+    color: #EDF5E1;
+    border: 1px solid #EDF5E1;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.App-sidebar-nav a:hover {
+    box-shadow: 2px 2px 2px #EDF5E1;
+}
+
+.App-sidebar-nav ul li {
+    list-style: none;
+}
+
+.is-active {
+    text-shadow: 1px 2px 2px #5CDB95;
+}
